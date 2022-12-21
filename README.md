@@ -7,7 +7,7 @@
 - 📫 How to reach me:
 roman.bobokov@gmail.com
 
-## I'm a work in  QA Automation, QA manual, Zennoposter, BAStudio, js, typescript, java, c#, web scrapping, webdriverio, cypress
+## I'm a work in  QA Automation, QA Manual, JS, Typescript, Java, Webdriverio, Cypress
 
 <h4 align="center">
   📫 Let's Connect and have a Chat!💬
