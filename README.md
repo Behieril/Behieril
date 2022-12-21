@@ -2,7 +2,6 @@
 
 ![](https://komarev.com/ghpvc/?username=Behieril&style=flat-square)
 
-- 🔭 I’m currently working on 
 - 🌱 I’m currently learning JS and Java
 - 🤔 I’m interested in programming and QA
 - 📫 How to reach me:
@@ -16,9 +15,6 @@ roman.bobokov@gmail.com
 <p align="center">
 <a href="https://t.me/Behieril">
   <img height="32" src="https://cdn-icons-png.flaticon.com/512/906/906377.png"/>
-</a>
-<a href="https://www.linkedin.com/in/azanir/">
-  <img height="32" src="https://cdn-icons-png.flaticon.com/512/1377/1377213.png"/>
 </a>
 <a href="https://twitter.com/Behieril">
   <img height="32" src="https://cdn-icons-png.flaticon.com/512/3670/3670127.png"/>
