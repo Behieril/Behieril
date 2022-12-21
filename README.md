@@ -1,14 +1,12 @@
 ### Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=Behieril&style=flat-square)
 
 - 🔭 I’m currently working on 
 - 🌱 I’m currently learning JS and Java
 - 🤔 I’m interested in programming and QA
 - 📫 How to reach me:
 roman.bobokov@gmail.com
-
-
-![](https://komarev.com/ghpvc/?username=Behieril&style=flat-square)
 
 ## I'm a work in  QA Automation, QA manual, Zennoposter, BAStudio, js, typescript, java, c#, web scrapping, webdriverio, cypress
 
