@@ -24,7 +24,7 @@ roman.bobokov@gmail.com
 ### Languages and Tools:
 
 <img align="left" alt="JavaScript" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" /> 
-<img align="left" alt="Postman" width="26px" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/postman_alt_macos_bigsur_icon_189814.png" />
+<img align="left" alt="Python" width="26px" src="https://www.flaticon.com/free-icon/python_919852?term=python&page=1&position=1&origin=search&related_id=919852" />
 <img align="left" alt="Java" width="26px" src="https://cdn-icons-png.flaticon.com/512/919/919854.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://code.visualstudio.com/assets/images/code-stable.png" />
 <img align="left" alt="Node.js" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" />
