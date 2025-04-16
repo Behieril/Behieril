@@ -21,9 +21,6 @@ roman.bobokov@gmail.com
 </a>
 </p>
 
-### Languages and Tools:
-
-
 <br />
 <br />
 
